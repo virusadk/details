@@ -1,15 +1,10 @@
 import telebot
 from telebot import types # для указание типов
 import requests
-import xmltodict 
-import pprint 
-import json 
 from bs4 import BeautifulSoup
 import lxml
 from PIL import Image
-import sys
 from PIL import ImageFilter
-import pybase64
 
 
 bot = telebot.TeleBot('7059069070:AAEXVrB__AyZ-Tw_l_gVhk2jQWwG1g2Sivk')
