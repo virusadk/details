@@ -2,4 +2,4 @@ requests
 BeautifulSoup4
 pyTelegramBotAPI
 lxml
-pil
+pillow
